@@ -1,0 +1,7 @@
+streamlit
+telethon
+ntplib
+asyncio
+python-dateutil
+Pillow
+protobuf
